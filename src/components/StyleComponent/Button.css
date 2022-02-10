@@ -1,0 +1,34 @@
+.draw {
+    background-color: rgb(62, 226, 62);
+  }
+  
+  .reset {
+    background-color: white;
+  }
+  
+  .stop {
+    background-color: rgb(204, 38, 38);
+  }
+
+  .btn:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+    opacity: 0.8;
+  }
+
+  .btn {
+    font-family: "Font2";
+    font-weight: bold;
+    padding: 8px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0px 20px;
+    transform: scale(1);
+    transition-duration: 100ms;
+    opacity: 1;
+  }
+
+  .responsive-reset{
+    margin-top: 5rem;
+  }

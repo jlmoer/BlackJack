@@ -1,0 +1,51 @@
+.score-div {
+    border: solid 2px rgb(66, 64, 64);
+    background-color: rgba(255, 255, 255, 0.747);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+
+}
+
+.score-div-right{
+    margin-right: 2rem;
+}
+
+.score-div-left{
+    margin-left: 2rem;
+}
+
+.score-div {
+    margin-bottom: 2rem;
+}
+
+.score-count {
+    font-size: 1.5rem;
+}
+
+.total-score {
+    margin-left: 2rem;
+}
+
+.current-score {
+    margin-right: 2rem;
+}
+
+@media (max-width: 768px) {
+    .total-score {
+        margin-left: 0rem;
+    }
+    
+    .current-score {
+        margin-right: 0rem;
+    }
+
+    .score-div-right{
+        margin-right: 0rem;
+    }
+    
+    .score-div-left{
+        margin-left: 0rem;
+    }
+
+}

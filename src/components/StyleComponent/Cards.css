@@ -1,0 +1,24 @@
+.cards-ul{
+    display: flex;
+    list-style: none;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.cards{
+    width: 8rem;
+    margin: 0 1rem 1rem 0;
+}
+
+li{
+    margin: 0;
+    padding: 0;
+}
+
+@media (max-width: 820px) {
+    .cards-ul {
+        flex-wrap: wrap;
+    }
+}

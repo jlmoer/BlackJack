@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/BlackJack-React/static/css/main.3e9f684f.css",
-    "main.js": "/BlackJack-React/static/js/main.b2367876.js",
-    "static/js/787.ca2bb39a.chunk.js": "/BlackJack-React/static/js/787.ca2bb39a.chunk.js",
-    "static/media/SourceSerif4-Regular.ttf": "/BlackJack-React/static/media/SourceSerif4-Regular.6d0c23b91d7f2f7b79e1.ttf",
-    "static/media/Logo.png": "/BlackJack-React/static/media/Logo.136457789d8b2db2fdff.png",
-    "static/media/Raleway-Bold.ttf": "/BlackJack-React/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
-    "static/media/win.jpg": "/BlackJack-React/static/media/win.9735b681d7641ecd6b75.jpg",
-    "static/media/lose.jpg": "/BlackJack-React/static/media/lose.fbacf011652cd3e5c1b8.jpg",
-    "index.html": "/BlackJack-React/index.html",
-    "main.3e9f684f.css.map": "/BlackJack-React/static/css/main.3e9f684f.css.map",
-    "main.b2367876.js.map": "/BlackJack-React/static/js/main.b2367876.js.map",
-    "787.ca2bb39a.chunk.js.map": "/BlackJack-React/static/js/787.ca2bb39a.chunk.js.map"
+    "main.css": "/BlackJack/static/css/main.fd63d753.css",
+    "main.js": "/BlackJack/static/js/main.a908a2b3.js",
+    "static/js/787.ca2bb39a.chunk.js": "/BlackJack/static/js/787.ca2bb39a.chunk.js",
+    "static/media/SourceSerif4-Regular.ttf": "/BlackJack/static/media/SourceSerif4-Regular.6d0c23b91d7f2f7b79e1.ttf",
+    "static/media/Logo.png": "/BlackJack/static/media/Logo.136457789d8b2db2fdff.png",
+    "static/media/Raleway-Bold.ttf": "/BlackJack/static/media/Raleway-Bold.d1a96e2aa6257c864d4d.ttf",
+    "static/media/win.jpg": "/BlackJack/static/media/win.9735b681d7641ecd6b75.jpg",
+    "static/media/lose.jpg": "/BlackJack/static/media/lose.fbacf011652cd3e5c1b8.jpg",
+    "index.html": "/BlackJack/index.html",
+    "main.fd63d753.css.map": "/BlackJack/static/css/main.fd63d753.css.map",
+    "main.a908a2b3.js.map": "/BlackJack/static/js/main.a908a2b3.js.map",
+    "787.ca2bb39a.chunk.js.map": "/BlackJack/static/js/787.ca2bb39a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e9f684f.css",
-    "static/js/main.b2367876.js"
+    "static/css/main.fd63d753.css",
+    "static/js/main.a908a2b3.js"
   ]
 }
